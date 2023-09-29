@@ -1,3 +1,3 @@
-@ CODSOFT
+@CODSOFT
 
 Python programming internship Tasks
